@@ -1,0 +1,483 @@
+
+.
+.topsection{
+    width: 100%;
+    height: 180px;
+    background-color: #1d0707(233, 226, 226);
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.logo img{
+    margin-left: 65px;
+    margin-top: 0px;
+    height: 120px;
+    width: auto;
+    background-color:white;
+    display: flex;
+    
+
+}
+
+.dark{
+    background-color:white;
+    width: 100%;
+    height: 280px;
+    display: flex;
+}
+.darkmode{
+    width: 30px;
+    height: fit-content;
+    background-color: #1d0707;
+    display: flex;
+}
+
+.navbar{
+    background-color: #f4f4f4;
+    padding: 10px  0;
+    
+    position: relative;
+    width: 100%;
+}
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.navbar ul li{
+    margin: 0 15px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+.navbar ul li a:hover{
+    color: rgb(96, 166, 201);
+}
+.inline{
+    display: inline-block;
+}
+
+.careers{
+    margin-left: 600px;
+    font:bold ;
+}
+.photo{
+    width: 100%;
+}
+.whitebackground{
+    width: 100%;
+    height: 550px;
+    display: flex;
+
+
+}
+.aboutnestle{
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 120px;
+    
+    width: 230px;
+    height:380px ;
+    
+    background-color:rgb(254, 254, 254);
+    box-shadow: 4px 3px 8px rgba(0,0,0,0.5);
+    
+}
+.announcements{
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 230px;
+    height:380px ;
+    background-color:rgb(254, 254, 254);
+    box-shadow: 4px 3px 8px rgba(0,0,0,0.5);
+    
+
+}
+.ourbrands{
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 230px;
+    height:380px ;
+    background-color:rgb(254, 254, 254);
+    box-shadow: 4px 3px 8px rgba(0,0,0,0.5);
+}
+.career{
+    border-radius: 5px;
+    
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 230px;
+    height:380px ;
+    background-color:rgb(254, 254, 254);
+    box-shadow: 4px 3px 8px rgba(0,0,0,0.5);
+}
+.img1{
+    width: 230;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.img2{
+    width: 230;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.img3{
+    width: 230;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.img4{
+    width: 230;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.aboutfont{
+    font-size: 20px;
+    margin: 40px;
+    color: aqua;
+}
+.announcement{
+    
+    color: rgb(2, 149, 2);
+    margin-left:40px;
+    font-size: 20px;
+}
+.ourbrand{
+    font-size: 20px;
+    margin-left: 60;
+    color: rgb(158, 47, 47);
+}
+.carer{
+    color:rgb(43, 123, 189);
+    margin-left: 60;
+    font-size: 30;
+}
+.r{
+    margin-bottom: 100%;
+}
+.re{
+    margin: bottom 10px;
+}
+.rea{
+    margin-bottom: 100%;
+}
+.read{
+    margin-bottom: 100%;
+}
+.redbackground{
+    background-color: rgb(194, 46, 113);
+    width: 100%;
+    height: 350px;
+    display: flex;
+}
+.latestnews{
+    color: white;
+    font-weight: normal;
+    font-size: 31px;
+    margin-left: 80px;
+}
+.viewall{
+    background-color: rgb(194, 46, 113);
+    margin-right: px;
+    margin-top: 230px;
+    color:white;
+    border-color: white;
+
+}
+.dateof{
+    color: white;
+    
+    margin-top: 60px;
+}
+.content1size{
+    width: 160px;
+    height: 80px;
+    margin-left: 180;
+}
+.content1{
+    color: white;
+    
+}
+.content2size{
+    width: 160px;
+    height: 80px;
+    margin-left: 180;
+}
+.dateof2{
+    color: white;
+    margin-left: ;
+    margin-top: 60px;
+
+}
+.content3size{
+    width: 160px;
+    height: 80px;
+    margin-left: 180px;
+    margin-top: 45px;
+}
+.explorewhitebackground{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    margin: 0%;
+
+}
+.explorehead{ 
+    margin-left:28%;
+    font-size: 40;
+    color: rgb(154, 81, 81);
+    font-family: sans-serif;
+    
+    
+}
+.explor{
+    width: 100%;
+    height: 100;
+    background-color: white;
+}
+.whitemain{
+    background-color: white;
+    width: 100%;
+    height: 235px;
+}
+.catogory{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+
+}
+.maggisauceimg{
+    padding-left: 250px;
+    height: 120px;
+
+}
+.maggiepazztaimg{
+    padding-left: 40px;
+    height: 150px;
+}
+.maggiemasalaimg{
+    padding-left: 40px;
+    height: 100px;
+    padding-top: 20;
+    width: 150;
+    border-radius: 50px;
+}
+.maggieoatsimg{
+     
+    padding-left: 40px;
+    height: 100;
+    padding-top: 20;
+    width: 150;
+    border-radius: 60px;
+}
+.maggieoatsimg:hover{
+    transform: scale(1.1);
+}
+.maggiemasalaimg:hover{
+    transform: scale(1.1);
+    
+}
+.maggiepazztaimg:hover{
+    transform: scale(1.1);
+}
+.maggisauceimg:hover{
+    transform: scale(1.1);
+}
+.buttonview{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: rgb(87, 119, 235);
+    border: 0;
+    height: 35px;
+    color: white;
+    margin-left: 48%;
+    width: 120px;
+    
+
+}
+.blueback{
+    width: 100%;
+    height: 250px;
+    background-color:rgb(53, 59, 175);
+    display: flex;
+    
+}
+.newstag{
+    width: 250px;
+    height:250px;
+    
+    margin-left: 200px;
+    
+
+}
+.titlenews{
+    color: aliceblue;
+    font-family: sans-serif;
+    padding-left: 60;
+    padding-top: 40;
+
+
+}
+.newstagp{
+    color: white;
+    font-family:sans-serif;
+    font-size: 16px;
+    padding-top: 30;
+    padding-left: 20;
+
+
+}
+.complane{
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    
+}
+.png{
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    
+}
+.contactus{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    
+}
+.worldmp{
+    margin-top: 50;
+    width: 300;
+}
+.style{
+    background:white;
+    color: blue;
+    border: none;
+    margin-left: 30;
+}
+.speekbtn{
+    background: none;
+    font:bold;
+    border-color: white;
+    color: white;
+    height: 30;
+    width: 80;
+    margin-left: 30;
+    border-width: 1px ;
+}
+.contct{
+    background: none;
+    font:bold;
+    border-color: white;
+    color: white;
+    height: 30;
+    width: 80;
+    margin-left: 30;
+    border-width: 1px ;
+
+}
+.footr{
+    width: 100%;
+    height: 800px;
+    background-color: floralwhite;
+    display: flex;
+}
+.ftr1{
+    width: 260;
+    height: 900px;
+    margin-left: 80;
+
+}
+.ftr2{
+    width: 260;
+    margin-top: 40px;
+    
+    
+    height: 500px;
+    margin-left: 70;
+}
+.ftr3{
+    width: 260;
+    margin-top: 40px;
+    height: 900px;
+    margin-left: 70;
+}
+.ftr4{
+    width: 260;
+    height: 900px;
+    margin-top: 40px;
+    margin-left: 70;
+}
+.nh{
+    color: #745353;
+    padding-left: 70px;
+    font-size: 40;
+}
+.nhp1{
+    color: #060505;
+    font-family:sans-serif;
+    padding-left: 25;
+}
+.nestlelg{
+    height: 260;
+    
+}
+.usaboutp{
+    
+    padding-left: 35px;
+    font-family: sans-serif;
+    font-size: 20;
+    color: #745353;
+    
+}
+.aboutlist{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.brnd{
+    color: #bf6262;
+    font-family: sans-serif;
+    padding-left: 75;
+    padding-top: ;
+}
+.brndsul{
+    font-family: sans-serif;
+    padding-bottom: 5;
+}
+.BRD{
+    color: #bf6262;
+    font-family: sans-serif;
+    padding-left: 20px;
+    
+}
+.brn{
+    color: #bf6262;
+    font-family: sans-serif;
+    padding-left: 36;
+    padding-top: 50;
+}
+.follow{
+    display: inline-block;
+    width: 100%;
+    height: 150;
+    background-color: floralwhite;
+}
+.flw{
+    padding-left: 47%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.icon{
+    margin-left: 670;
+}
